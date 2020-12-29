@@ -1,0 +1,18 @@
+form{
+  display: inline-block;
+  margin: 20px 0;
+  padding: 10px;
+  border: 1px solid black;
+  margin-right: 10px;
+}
+input {
+  display: block;
+}
+span{
+  display: block;
+  margin-bottom: 20px;
+}
+button {
+  padding: 10px;
+  display: block;
+}
